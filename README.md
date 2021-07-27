@@ -2,7 +2,7 @@
 
 ### Author
 
-[Grant Okello](https://brian6382.github.io/agular_que/)
+[Grant Okello]
 
 ### Description
 
